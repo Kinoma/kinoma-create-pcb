@@ -1,4 +1,4 @@
 kinoma-create-pcb
 =================
 
-Designs for Kinoma Create circuit boards, including a complete list of components used, PCB files in Allegro and Gerbers, schematics in Cadence OrCAD
+The designs for the circuit boards in Kinoma Create are here, including a complete list of components used BOM (Excel). PCB files are provided in Allegro and Gerbers, and schematics in Cadence OrCAD format. 
